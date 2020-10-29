@@ -1,0 +1,23 @@
+# VSCODE教學
+
+<img src="./1200px-Visual_Studio_Code_1.35_icon.png" style="height:200px" />
+
+## 左側導航列由上到下：
+1. 檔案總管
+2. 搜尋
+3. git
+4. Run& Debug
+5. 插件市集
+6. (若安裝的插件支援，可能會增加項目)
+
+## 下方導航列由左至右：
+1. git 控制branch
+2. push控制
+3. 警告列
+4. 行/欄
+5. tab 格數控制
+6. 編碼控制
+7. 行尾控制
+8. 語言
+9. 支援
+
