@@ -1,7 +1,4 @@
 # VSCODE教學
-
-<img src="./1200px-Visual_Studio_Code_1.35_icon.png" style="height:200px" />
-
 ## 左側導航列由上到下：
 1. 檔案總管
 2. 搜尋
@@ -20,4 +17,7 @@
 7. 行尾控制
 8. 語言
 9. 支援
+--
+## 建議安裝插件
+
 
