@@ -2,7 +2,7 @@
 ## 基本程式碼
 ```cpp
 #include <iostream>
-using namespacestd;
+using namespace std;
 int main(int argc, char const *argv[])
 {
     return 0;
